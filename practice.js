@@ -63,4 +63,5 @@ let sum = 0;
 arr.map(element => {
     sum = sum + element.salary
 })
+console.log('hello world')
 console.log(sum)
